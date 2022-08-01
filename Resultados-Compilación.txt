@@ -1,0 +1,2 @@
+﻿Operación Compilar iniciada..
+========== Compilación: 0 correctos, 0 dieron error, 1 actualizados, 0 omitidos ==========

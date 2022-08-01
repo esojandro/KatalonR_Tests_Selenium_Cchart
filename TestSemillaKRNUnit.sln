@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSemillaKRNUnit", "TestSemillaKRNUnit\TestSemillaKRNUnit.csproj", "{9A820846-7B47-42E9-B492-98AFE3387096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A820846-7B47-42E9-B492-98AFE3387096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A820846-7B47-42E9-B492-98AFE3387096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A820846-7B47-42E9-B492-98AFE3387096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A820846-7B47-42E9-B492-98AFE3387096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8CAF99-8687-4B94-8D89-8EFF31DB2ECA}
+	EndGlobalSection
+EndGlobal
